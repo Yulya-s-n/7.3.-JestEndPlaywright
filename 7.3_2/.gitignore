@@ -1,0 +1,12 @@
+node_modules/
+/playwright-report/
+/playwright/.cache/
+/playwright-report/
+/playwright/.cache/
+user.js
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace

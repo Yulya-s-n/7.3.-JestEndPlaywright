@@ -1,0 +1,23 @@
+{
+    "name": "7.3_2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "playwright",
+        "report": "npx playwright show-report"
+    },
+    "author": "Yulya",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.39.0",
+        "@types/node": "^20.8.7",
+        "playwright": "^1.39.0"
+    },
+    "dependencies": {
+        "passport": "^0.6.0"
+    }
+}
